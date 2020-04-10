@@ -1,0 +1,11 @@
+{
+  "name": "hygen-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Wellerson",
+  "license": "MIT",
+  "dependencies": {
+    "global": "^4.4.0",
+    "hygen": "^5.0.3"
+  }
+}
